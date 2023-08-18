@@ -1,1 +1,6 @@
 rootProject.name = 'java-module-system'
+include 'model'
+include 'service'
+include 'client'
+include 'dbimpl'
+
