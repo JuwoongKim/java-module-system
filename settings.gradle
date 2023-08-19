@@ -3,4 +3,5 @@ include 'model'
 include 'service'
 include 'client'
 include 'dbimpl'
+include 'base'
 
