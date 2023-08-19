@@ -4,7 +4,7 @@ import dbimpl.StudentDbService;
 import model.Student;
 import service.StudentService;
 
-public class StidentClinet {
+public class StudentClient {
 	public static void main(String[] args) {
 		StudentService service = new StudentDbService();
 		service.create(new Student());
